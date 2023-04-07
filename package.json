@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "node-sass": "*"
+  },
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass":"node-sass assets/scss/style.scss -o assets/css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
